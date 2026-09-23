@@ -1,0 +1,6 @@
+{
+  "name": "Spreadsheet Manajemen Keuangan",
+  "description": "Konsep spreadsheet manajemen keuangan terintegrasi dengan struktur input pemasukan, pengeluaran, kategori dinamis, dan dashboard ringkasan otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
